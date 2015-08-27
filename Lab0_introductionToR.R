@@ -1,6 +1,6 @@
 # DataCamp
 # Data Analysis and Statistical Inference
-# lab 1 introduction to R
+# lab 0 introduction to R
 
 
 
