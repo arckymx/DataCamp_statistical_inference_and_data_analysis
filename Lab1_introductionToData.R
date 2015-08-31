@@ -1,6 +1,7 @@
 # DataCamp
 # Data Analysis and Statistical Inference
 # lab 1   
+# Introduction to R
 
 # Load the cdc data frame into the workspace
 load(url('http://assets.datacamp.com/course/dasi/cdc.Rdata'))
